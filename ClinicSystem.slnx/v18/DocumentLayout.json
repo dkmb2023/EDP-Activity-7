@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danilyn\\source\\repos\\ClinicSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\danilyn\\source\\repos\\clinicsystem\\clinicsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\danilyn\\source\\repos\\clinicsystem\\clinicsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\danilyn\\source\\repos\\clinicsystem\\clinicsystem\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|C:\\Users\\danilyn\\source\\repos\\ClinicSystem\\clinicsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\danilyn\\source\\repos\\clinicsystem\\clinicsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danilyn\\source\\repos\\ClinicSystem\\ClinicSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\danilyn\\source\\repos\\ClinicSystem\\ClinicSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "ClinicSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:02:09.793Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\danilyn\\source\\repos\\ClinicSystem\\ClinicSystem\\DBConnection.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\danilyn\\source\\repos\\ClinicSystem\\ClinicSystem\\DBConnection.cs",
+              "RelativeToolTip": "ClinicSystem\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T03:36:48.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\danilyn\\source\\repos\\ClinicSystem\\ClinicSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\danilyn\\source\\repos\\ClinicSystem\\ClinicSystem\\Form1.Designer.cs",
+              "RelativeToolTip": "ClinicSystem\\Form1.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T01:55:20.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\danilyn\\source\\repos\\ClinicSystem\\ClinicSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\danilyn\\source\\repos\\ClinicSystem\\ClinicSystem\\Form1.cs",
+              "RelativeToolTip": "ClinicSystem\\Form1.cs",
+              "ViewState": "AgIAAPoEAAAAAAAAAAAiwAwFAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T01:35:49.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danilyn\\source\\repos\\ClinicSystem\\ClinicSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\danilyn\\source\\repos\\ClinicSystem\\ClinicSystem\\Program.cs",
+              "RelativeToolTip": "ClinicSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T01:55:26.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
