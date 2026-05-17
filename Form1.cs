@@ -412,7 +412,6 @@ namespace ClinicSystem
             // ── Stat row ──
             int wx = 0, wy = 72, ww = 258, wh = 115, wgap = 18;
 
-            // FIX #11: Use named tag to avoid Controls[1] fragility
             Panel wAppt = CreateStatWidgetFixed("Pending Today", pendingCount.ToString(), clrOrange, new Rectangle(wx, wy, ww, wh));
             Panel wPat = CreateStatWidgetFixed("Total Patients", totalPatients.ToString(), clrMainBlue, new Rectangle(wx + ww + wgap, wy, ww, wh));
             Panel wDone = CreateStatWidgetFixed(
